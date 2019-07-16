@@ -10,6 +10,7 @@ public class LoginVo {
 	
 	@NotNull
 	@IsMobile
+	//手机号
 	private String mobile;
 	
 	@NotNull
